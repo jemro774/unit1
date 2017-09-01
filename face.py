@@ -1,6 +1,6 @@
 #Jack Robey
 #9/1/17
-#face.py - create a face
+#face.py - displays a face
 
 print('   xxxxx   ')
 print('  x     x  ')
